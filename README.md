@@ -1,0 +1,1 @@
+Easy use of iosteram, fstream and string lib.
